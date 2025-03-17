@@ -1,0 +1,21 @@
+body
+{
+	background-color: #7d8f91; 
+	font-family: Verdana;
+	font-size: 20px;
+	color: rgb(41, 97, 199);
+	text-align: center;
+}
+h1 
+{
+	font-size: 48px;
+	color: #421ee0 !important;
+}
+p
+{
+    color: #03ffea !important
+}
+input
+{
+    color: #b92e4c !important
+}
